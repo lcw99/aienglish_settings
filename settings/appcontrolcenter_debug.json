@@ -2,6 +2,7 @@
   "announcement": [
     {
       "active": false,
+      "platform": "ios,android",
       "showAnnouncementOnly": false,
       "version": "0-27",
       "title": "Announcement test",
@@ -9,6 +10,7 @@
     },
     {
       "active": false,
+      "platform": "ios,android",
       "showAnnouncementOnly": false,
       "version": "27,28",
       "title": "Announcement test",
