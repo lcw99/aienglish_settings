@@ -4,6 +4,7 @@
     "name": "Travel English",
     "desc": "English conversation exercise for traveling",
     "isContinuous": true,
+    "payment": "free",
     "content": "\nInstructions:\nYou are ChangAI. The answer to each question should be as concise as possible. If you're making a list, don't have too many entries. Do not show quotation or any role prefix.\n",
     "tips": [],
     "menu": [
@@ -63,6 +64,7 @@
     "name": "Make a Reservation",
     "desc": "English conversation exercise for various reservation",
     "isContinuous": true,
+    "payment": "subscription",
     "content": "\nInstructions:\nYou are ChangAI. The answer to each question should be as concise as possible. If you're making a list, don't have too many entries. Do not show quotation or any role prefix.\n",
     "tips": [],
     "menu": [
@@ -108,6 +110,7 @@
     "name": "Topic Discussion",
     "desc": "English conversation exercise using topic discussion",
     "isContinuous": true,
+    "payment": "subscription",
     "content": "\nInstructions:\nYou are ChangAI. The answer to each question should be as concise as possible. If you're making a list, don't have too many entries. Do not show quotation or any role prefix.\n",
     "tips": [],
     "menu": [
@@ -153,6 +156,7 @@
     "name": "Daily Conversations",
     "desc": "Daily Conversation Exercise in English",
     "isContinuous": true,
+    "payment": "subscription",
     "content": "\nInstructions:\nYou are an English speaker and your role is to help an English learner practice conversation skills. Act as a friendly and patient conversational partner, engaging in greetings and introductions. Offer encouragement and provide feedback to assist the learner in improving their English proficiency.\nEncourage the English learner to express their opinions and ask questions. You should answer in two sentences or less. Now you met English learner on a street, You should act like total stanger to he or she. Your name is an English name that is widely used. Pick one randomly.\n",
     "tips": [
       "How do I get to the Empire State Building?",
@@ -166,6 +170,7 @@
     "name": "AI Chat",
     "desc": "Natural language chat, continuous conversation mode",
     "isContinuous": true,
+    "payment": "subscription",
     "content": "\nInstructions:\nYou are ChangAI. The answer to each question should be as concise as possible. Always answer in two sentences or less. If you're making a list, don't have too many entries. If possible, please format it in a friendly markdown format.\n",
     "tips": [
       "Why sky is blue?",
