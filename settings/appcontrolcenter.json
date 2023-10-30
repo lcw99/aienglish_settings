@@ -2,17 +2,32 @@
   "announcement": [
     {
       "active": false,
-      "platform": "ios,android",
-      "showAnnouncementOnly": false,
-      "version": "0-27",
-      "title": "Announcement test",
-      "text": "Hello users!  \nPlease update app.  \n[here](https://play.google.com/store/apps/details?id=kr.semaphore.aienglish)"
+      "showAnnouncementOnly": true,
+      "version": "0-41",
+      "platform": "ios",
+      "title": "Announcements",
+      "text": "Our service will be down for two days(by 12:00 a.m. Pacific time on the 31st Oct.) for server maintenance and app updates. We apologize for the inconvenience."
     },
     {
+      "active": true,
+      "showAnnouncementOnly": true,
+      "version": "0-41",
+      "platform": "android",
+      "title": "App update notice",
+      "text": "### Please update your app  \n[from the Google play store](https://play.google.com/store/apps/details?id=kr.semaphore.aienglish)"
+    },
+    {
+      "active": true,
+      "showAnnouncementOnly": true,
+      "version": "0-41",
+      "platform": "ios",
+      "title": "App update notice",
+      "text": "### Please update your app  \n[from the Apple store](https://apps.apple.com/app/ai-active-english/id6449520471)"
+    },    {
       "active": false,
-      "platform": "ios,android",
-      "showAnnouncementOnly": false,
-      "version": "27,28",
+      "showAnnouncementOnly": true,
+      "version": "25,0-100",
+      "platform": "android, ios",
       "title": "Announcement test",
       "text": "Hello 27,28 users!  \nPlease update app.  \n[here](https://play.google.com/store/apps/details?id=kr.semaphore.aienglish)"
     }
