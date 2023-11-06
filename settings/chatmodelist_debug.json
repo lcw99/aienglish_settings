@@ -4,7 +4,7 @@
     "name": "Travel English",
     "desc": "English conversation exercise for traveling",
     "isContinuous": true,
-    "payment": "free",
+    "payment": "subscription",
     "content": "\nInstructions:\nYou are ChangAI. The answer to each question should be as concise as possible. If you're making a list, don't have too many entries. Do not show quotation or any role prefix.\n",
     "tips": [],
     "menu": [
